@@ -1,0 +1,2 @@
+# Codility-test-real-case1
+This is a real question from Codility. Normally, the questions from Codility of the real tests have different levels of difficulty, but all of them are harder than the similar examples that are public available just for practice. The program used to solve this task was Python 3.6. The solution I am proposing here may not be the fastest, but it is correct. Feel free to copy and use it, even better if you optimize it. Don't forget to mention my name
